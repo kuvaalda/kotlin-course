@@ -1,2 +1,1 @@
-Hello world!
-        I am Nastya!
+"Hello world!"
